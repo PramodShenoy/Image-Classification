@@ -17,6 +17,6 @@ Here's a link to the [CIFAR webite](https://www.cs.toronto.edu/~kriz/cifar.html)
 ``pip install -r requirements.txt``
 ## Usage and Accuracy
 * Run the jupyter notebook from terminal using ``jupyter notebook`` command
-* The accuracy obtained is around 67% whihc is around 7 times better than random guessing 
+* The accuracy obtained is around 67% which is around 7 times better than random guessing 
 * Training takes a lot of time and using a GPU is recommended
 ### Fork the repo to improve accuracy
